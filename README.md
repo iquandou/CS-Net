@@ -1,8 +1,6 @@
 A Concurrent Multi-scale Detector for End-to-end Image Matching
 
 
-The original dataset
-
 This work builds on the RF-Net, we provide the modified files, please see more details at "https://github.com/Xylon-Sean/rfnet".
 
 Acknowledgement
